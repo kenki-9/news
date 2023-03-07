@@ -66,3 +66,4 @@ bangbang.yan.vn
 yancom.yan.vn
 static2.yan.vn
 sql2.yan.vn
+audio.yan.vn
